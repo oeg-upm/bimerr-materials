@@ -1,0 +1,37 @@
+{
+    "datasources": [
+        {
+            "id": "Materials Datasource",
+            "handler": {
+                "type": "JsonHandler",
+                "iterator": "$.Elements[*]"
+            },
+            "provider": {
+                "type": "FileProvider",
+                "file": "./Examples/ASHRAE_2005_HOF_Materials.json"
+            }
+        },
+        {
+            "id": "Materials PropertiesLayer",
+            "handler": {
+                "type": "JsonHandler",
+                "iterator": "$.Elements[*].[?(@.Type=='Layer')].PropertyValuePair[*]"
+            },
+            "provider": {
+                "type": "FileProvider",
+                "file": "./Examples/ASHRAE_2005_HOF_Materials.json"
+            }
+        },
+        {
+            "id": "Materials PropertiesMaterial",
+            "handler": {
+                "type": "JsonHandler",
+                "iterator": "$.Elements[*].[?(@.Type=='Material')].PropertyValuePair[*]"
+            },
+            "provider": {
+                "type": "FileProvider",
+                "file": "./Examples/ASHRAE_2005_HOF_Materials.json"
+            }
+        }
+    ]
+}

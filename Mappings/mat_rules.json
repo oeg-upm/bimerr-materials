@@ -1,0 +1,173 @@
+{
+    "resource_rules": [
+        {
+            "id": "LayerSet",
+            "datasource_ids": [
+                "Materials Datasource"
+            ],
+            "subject": "https://data.bimerr.iot.linkeddata.es/resource/MaterialLayerSet/{$.[?(@.Type=='Layer')].MatName}",
+            "properties": [
+                {
+                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "object": "https://bimerr.iot.linkeddata.es/def/material-properties#MaterialLayerSet",
+                    "is_literal": "False"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#name",
+                    "object": "{$.MatNameStr}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#string"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#OriginalType",
+                    "object": "{$.Name}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#string"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#hasMaterialLayer",
+                    "object": "https://data.bimerr.iot.linkeddata.es/resource/MaterialLayer/{$.[?(@.Type=='Layer')].PropertyValuePair[*].ComplexName}",
+                    "is_literal": "False"
+                }
+            ]
+        },
+        {
+            "id": "Layers",
+            "datasource_ids": [
+                "Materials PropertiesLayer"
+            ],
+            "subject": "https://data.bimerr.iot.linkeddata.es/resource/MaterialLayer/{$.ComplexName}",
+            "properties": [
+                {
+                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "object": "https://bimerr.iot.linkeddata.es/def/material-properties#MaterialLayer",
+                    "is_literal": "False"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#name",
+                    "object": "{$.Name}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#string"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#hasMaterial",
+                    "object": "{$.Value}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#string"
+                }
+            ]
+        },
+        {
+            "id": "Materials",
+            "datasource_ids": [
+                "Materials Datasource"
+            ],
+            "subject": "https://data.bimerr.iot.linkeddata.es/resource/Material/{$.[?(@.Type=='Material')].MatName}",
+            "properties": [
+                {
+                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "object": "https://bimerr.iot.linkeddata.es/def/material-properties#Material",
+                    "is_literal": "False"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#name",
+                    "object": "{$.MatNameStr}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#string"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#OriginalType",
+                    "object": "{$.Name}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#string"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#hasPropertySet",
+                    "object": "https://data.bimerr.iot.linkeddata.es/resource/PropertySet/{$.[?(@.Type=='Material')].PropertyValuePair[*].ComplexName}",
+                    "is_literal": "False"
+                }
+            ]
+        },
+        {
+            "id": "PropertySet",
+            "datasource_ids": [
+                "Materials PropertiesMaterial"
+            ],
+            "subject": "https://data.bimerr.iot.linkeddata.es/resource/PropertySet/{$.ComplexName}",
+            "properties": [
+                {
+                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "object": "https://bimerr.iot.linkeddata.es/def/material-properties#PropertySet",
+                    "is_literal": "False"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#name",
+                    "object": "{$.ComplexName}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#string"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#hasProperty",
+                    "object": "https://data.bimerr.iot.linkeddata.es/resource/MaterialProperty/{$.Name}",
+                    "is_literal": "False"
+                }
+            ]
+        },
+        {
+            "id": "Property",
+            "datasource_ids": [
+                "Materials PropertiesMaterial"
+            ],
+            "subject": "https://data.bimerr.iot.linkeddata.es/resource/MaterialProperty/{$.ComplexName}",
+            "properties": [
+                {
+                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "object": "httpss://saref.etsi.org/core/Property",
+                    "is_literal": "False"
+                },
+                {
+                    "predicate": "https://bimerr.iot.linkeddata.es/def/material-properties#name",
+                    "object": "{$.Name}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#string"
+                },
+                {
+                    "predicate": "httpss://saref.etsi.org/core/relatesToMeasurement",
+                    "object": "https://data.bimerr.iot.linkeddata.es/resource/MaterialMeasurement/{$.ComplexName}",
+                    "is_literal": "False"
+                }
+            ]
+        },
+        {
+            "id": "Measurement",
+            "datasource_ids": [
+                "Materials PropertiesMaterial"
+            ],
+            "subject": "https://data.bimerr.iot.linkeddata.es/resource/MaterialMeasurement/{$.ComplexName}",
+            "properties": [
+                {
+                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "object": "httpss://saref.etsi.org/core/Measurement",
+                    "is_literal": "False"
+                },
+                {
+                    "predicate": "httpss://saref.etsi.org/core/hasValue",
+                    "object": "{$.Value}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#{$.Datatype}"
+                },
+                {
+                    "predicate": "httpss://saref.etsi.org/core/relatesToProperty",
+                    "object": "https://data.bimerr.iot.linkeddata.es/resource/MaterialProperty/{$.ComplexName}",
+                    "is_literal": "False"
+                },
+                {
+                    "predicate": "httpss://saref.etsi.org/core/isMeasuredIn",
+                    "object": "{$.Unit}",
+                    "is_literal": "True",
+                    "datatype": "https://www.w3.org/2001/XMLSchema#string"
+                }
+            ]
+        }
+    ]
+}
