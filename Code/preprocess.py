@@ -24,7 +24,7 @@ def main(listFiles):
         idfContent = IDF(file + '.idf')
         #print(idfContent[0])
         # Ahora creamos un fichero JSON por cada uno de los ficheros IDF
-        with open('../JsonFiles/' + file + '.json', 'w+') as jsonFile:
+        with open('../Examples/' + file + '.json', 'w+') as jsonFile:
 
             # Creamos el diccionario que se va a introducir en el fichero JSON
             dictionary = {}
@@ -54,6 +54,7 @@ def main(listFiles):
                                                     
                     else:
                         miniDic = {}
+                        miniDic['MatName'] = name
                         miniDic["ComplexName"] = name + '__' + str(item[0]).replace(' ', '_')
                         miniDic["Name"] = str(item[0]).replace(' ', '_')
 
@@ -82,10 +83,11 @@ def main(listFiles):
                 
                 dictionary['Elements'].append(attribute)
                 
-                #dictionary[elem.schema['pyname']].append(miniDic)
 
             # Guardamos los elementos dentro del JSON correspondiente al fichero IDF
             json.dump(dictionary, jsonFile, indent=4)
 
         # Cerramos el fichero JSON
         jsonFile.close()
+
+main(listFiles)

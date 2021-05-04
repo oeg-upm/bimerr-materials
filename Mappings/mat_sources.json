@@ -8,7 +8,7 @@
             },
             "provider": {
                 "type": "FileProvider",
-                "file": "./Examples/ASHRAE_2005_HOF_Materials.json"
+                "file": "../Examples/ASHRAE_2005_HOF_Materials.json"
             }
         },
         {
@@ -19,7 +19,7 @@
             },
             "provider": {
                 "type": "FileProvider",
-                "file": "./Examples/ASHRAE_2005_HOF_Materials.json"
+                "file": "../Examples/ASHRAE_2005_HOF_Materials.json"
             }
         },
         {
@@ -30,7 +30,7 @@
             },
             "provider": {
                 "type": "FileProvider",
-                "file": "./Examples/ASHRAE_2005_HOF_Materials.json"
+                "file": "../Examples/ASHRAE_2005_HOF_Materials.json"
             }
         }
     ]
