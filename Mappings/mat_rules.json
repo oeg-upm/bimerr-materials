@@ -8,7 +8,7 @@
             "subject": "http://data.bimerr.iot.linkeddata.es/resource/MaterialLayerSet/{$.[?(@.Type=='Layer')].MatName}",
             "properties": [
                 {
-                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
                     "object": "https://bimerr.iot.linkeddata.es/def/material-properties#MaterialLayerSet",
                     "is_literal": "False",
                     "datatype": ""
@@ -41,7 +41,7 @@
             "subject": "http://data.bimerr.iot.linkeddata.es/resource/MaterialLayer/{$.ComplexName}",
             "properties": [
                 {
-                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
                     "object": "https://bimerr.iot.linkeddata.es/def/material-properties#MaterialLayer",
                     "is_literal": "False",
                     "datatype": ""
@@ -68,7 +68,7 @@
             "subject": "http://data.bimerr.iot.linkeddata.es/resource/Material/{$.[?(@.Type=='Material')].MatName}",
             "properties": [
                 {
-                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
                     "object": "https://bimerr.iot.linkeddata.es/def/material-properties#Material",
                     "is_literal": "False",
                     "datatype": ""
@@ -107,7 +107,7 @@
             "subject": "http://data.bimerr.iot.linkeddata.es/resource/PropertySet/{$.ComplexName}",
             "properties": [
                 {
-                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
                     "object": "http://bimerr.iot.linkeddata.es/def/building#PropertySet",
                     "is_literal": "False",
                     "datatype": ""
@@ -134,7 +134,7 @@
             "subject": "http://data.bimerr.iot.linkeddata.es/resource/Property/{$.ComplexName}",
             "properties": [
                 {
-                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
                     "object": "https://saref.etsi.org/core/Property",
                     "is_literal": "False",
                     "datatype": ""
@@ -161,7 +161,7 @@
             "subject": "http://data.bimerr.iot.linkeddata.es/resource/Measurement/{$.ComplexName}",
             "properties": [
                 {
-                    "predicate": "https://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                    "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
                     "object": "https://saref.etsi.org/core/Measurement",
                     "is_literal": "False",
                     "datatype": ""
