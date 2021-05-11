@@ -5,7 +5,7 @@ import logging
 from pyidf.idf import IDF
 
 listFiles = []
-os.chdir("../Examples")
+os.chdir("../Examples/")
 for file in glob.glob("*.idf"):
     listFiles.append(file.split('.')[0])
 
@@ -24,7 +24,7 @@ def main(listFiles):
         idfContent = IDF(file + '.idf')
         #print(idfContent[0])
         # Ahora creamos un fichero JSON por cada uno de los ficheros IDF
-        with open('../Examples/' + file + '.json', 'w+') as jsonFile:
+        with open(file + '.json', 'w+') as jsonFile:
 
             # Creamos el diccionario que se va a introducir en el fichero JSON
             dictionary = {}

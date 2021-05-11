@@ -1,0 +1,372 @@
+{
+    "Elements": [
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "AIR_3MM",
+                    "ComplexName": "AIR_3MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Air"
+                },
+                {
+                    "MatName": "AIR_3MM",
+                    "ComplexName": "AIR_3MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0032
+                }
+            ],
+            "MatName": "AIR_3MM",
+            "MatNameStr": "AIR 3MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "AIR_6MM",
+                    "ComplexName": "AIR_6MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Air"
+                },
+                {
+                    "MatName": "AIR_6MM",
+                    "ComplexName": "AIR_6MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0063
+                }
+            ],
+            "MatName": "AIR_6MM",
+            "MatNameStr": "AIR 6MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "AIR_8MM",
+                    "ComplexName": "AIR_8MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Air"
+                },
+                {
+                    "MatName": "AIR_8MM",
+                    "ComplexName": "AIR_8MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0079
+                }
+            ],
+            "MatName": "AIR_8MM",
+            "MatNameStr": "AIR 8MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "AIR_13MM",
+                    "ComplexName": "AIR_13MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Air"
+                },
+                {
+                    "MatName": "AIR_13MM",
+                    "ComplexName": "AIR_13MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0127
+                }
+            ],
+            "MatName": "AIR_13MM",
+            "MatNameStr": "AIR 13MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "ARGON_3MM",
+                    "ComplexName": "ARGON_3MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Argon"
+                },
+                {
+                    "MatName": "ARGON_3MM",
+                    "ComplexName": "ARGON_3MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0032
+                }
+            ],
+            "MatName": "ARGON_3MM",
+            "MatNameStr": "ARGON 3MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "ARGON_6MM",
+                    "ComplexName": "ARGON_6MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Argon"
+                },
+                {
+                    "MatName": "ARGON_6MM",
+                    "ComplexName": "ARGON_6MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0063
+                }
+            ],
+            "MatName": "ARGON_6MM",
+            "MatNameStr": "ARGON 6MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "ARGON_8MM",
+                    "ComplexName": "ARGON_8MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Argon"
+                },
+                {
+                    "MatName": "ARGON_8MM",
+                    "ComplexName": "ARGON_8MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0079
+                }
+            ],
+            "MatName": "ARGON_8MM",
+            "MatNameStr": "ARGON 8MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "ARGON_13MM",
+                    "ComplexName": "ARGON_13MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Argon"
+                },
+                {
+                    "MatName": "ARGON_13MM",
+                    "ComplexName": "ARGON_13MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0127
+                }
+            ],
+            "MatName": "ARGON_13MM",
+            "MatNameStr": "ARGON 13MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "KRYPTON_3MM",
+                    "ComplexName": "KRYPTON_3MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Krypton"
+                },
+                {
+                    "MatName": "KRYPTON_3MM",
+                    "ComplexName": "KRYPTON_3MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0032
+                }
+            ],
+            "MatName": "KRYPTON_3MM",
+            "MatNameStr": "KRYPTON 3MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "KRYPTON_6MM",
+                    "ComplexName": "KRYPTON_6MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Krypton"
+                },
+                {
+                    "MatName": "KRYPTON_6MM",
+                    "ComplexName": "KRYPTON_6MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0063
+                }
+            ],
+            "MatName": "KRYPTON_6MM",
+            "MatNameStr": "KRYPTON 6MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "KRYPTON_8MM",
+                    "ComplexName": "KRYPTON_8MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Krypton"
+                },
+                {
+                    "MatName": "KRYPTON_8MM",
+                    "ComplexName": "KRYPTON_8MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0079
+                }
+            ],
+            "MatName": "KRYPTON_8MM",
+            "MatNameStr": "KRYPTON 8MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "KRYPTON_13MM",
+                    "ComplexName": "KRYPTON_13MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Krypton"
+                },
+                {
+                    "MatName": "KRYPTON_13MM",
+                    "ComplexName": "KRYPTON_13MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0127
+                }
+            ],
+            "MatName": "KRYPTON_13MM",
+            "MatNameStr": "KRYPTON 13MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "XENON_3MM",
+                    "ComplexName": "XENON_3MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Xenon"
+                },
+                {
+                    "MatName": "XENON_3MM",
+                    "ComplexName": "XENON_3MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0032
+                }
+            ],
+            "MatName": "XENON_3MM",
+            "MatNameStr": "XENON 3MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "XENON_6MM",
+                    "ComplexName": "XENON_6MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Xenon"
+                },
+                {
+                    "MatName": "XENON_6MM",
+                    "ComplexName": "XENON_6MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0063
+                }
+            ],
+            "MatName": "XENON_6MM",
+            "MatNameStr": "XENON 6MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "XENON_8MM",
+                    "ComplexName": "XENON_8MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Xenon"
+                },
+                {
+                    "MatName": "XENON_8MM",
+                    "ComplexName": "XENON_8MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0079
+                }
+            ],
+            "MatName": "XENON_8MM",
+            "MatNameStr": "XENON 8MM"
+        },
+        {
+            "Name": "WindowMaterialGas",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "XENON_13MM",
+                    "ComplexName": "XENON_13MM__Gas_Type",
+                    "Name": "Gas_Type",
+                    "Datatype": "string",
+                    "Value": "Xenon"
+                },
+                {
+                    "MatName": "XENON_13MM",
+                    "ComplexName": "XENON_13MM__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.0127
+                }
+            ],
+            "MatName": "XENON_13MM",
+            "MatNameStr": "XENON 13MM"
+        }
+    ]
+}

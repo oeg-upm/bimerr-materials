@@ -1,0 +1,640 @@
+{
+    "Elements": [
+        {
+            "Name": "WindowMaterialBlind",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Orientation",
+                    "Name": "Slat_Orientation",
+                    "Datatype": "string",
+                    "Value": "Horizontal"
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Width",
+                    "Name": "Slat_Width",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.025
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Separation",
+                    "Name": "Slat_Separation",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.01875
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Thickness",
+                    "Name": "Slat_Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.001
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Angle",
+                    "Name": "Slat_Angle",
+                    "Unit": "deg",
+                    "Datatype": "float",
+                    "Value": 45.0
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Conductivity",
+                    "Name": "Slat_Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Beam_Solar_Transmittance",
+                    "Name": "Slat_Beam_Solar_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Front_Side_Slat_Beam_Solar_Reflectance",
+                    "Name": "Front_Side_Slat_Beam_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Back_Side_Slat_Beam_Solar_Reflectance",
+                    "Name": "Back_Side_Slat_Beam_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Diffuse_Solar_Transmittance",
+                    "Name": "Slat_Diffuse_Solar_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Front_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Name": "Front_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Back_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Name": "Back_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Beam_Visible_Transmittance",
+                    "Name": "Slat_Beam_Visible_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Front_Side_Slat_Beam_Visible_Reflectance",
+                    "Name": "Front_Side_Slat_Beam_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Back_Side_Slat_Beam_Visible_Reflectance",
+                    "Name": "Back_Side_Slat_Beam_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Diffuse_Visible_Transmittance",
+                    "Name": "Slat_Diffuse_Visible_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Front_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Name": "Front_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Back_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Name": "Back_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Slat_Infrared_Hemispherical_Transmittance",
+                    "Name": "Slat_Infrared_Hemispherical_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Front_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Name": "Front_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Back_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Name": "Back_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Blind_to_Glass_Distance",
+                    "Name": "Blind_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.05
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Blind_Top_Opening_Multiplier",
+                    "Name": "Blind_Top_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Blind_Bottom_Opening_Multiplier",
+                    "Name": "Blind_Bottom_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Blind_Left_Side_Opening_Multiplier",
+                    "Name": "Blind_Left_Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Blind_Right_Side_Opening_Multiplier",
+                    "Name": "Blind_Right_Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Minimum_Slat_Angle",
+                    "Name": "Minimum_Slat_Angle",
+                    "Unit": "deg",
+                    "Datatype": "float",
+                    "Value": null
+                },
+                {
+                    "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS__Maximum_Slat_Angle",
+                    "Name": "Maximum_Slat_Angle",
+                    "Unit": "deg",
+                    "Datatype": "float",
+                    "Value": null
+                }
+            ],
+            "MatName": "BLIND_WITH_HIGH_REFLECTIVITY_SLATS",
+            "MatNameStr": "BLIND WITH HIGH REFLECTIVITY SLATS"
+        },
+        {
+            "Name": "WindowMaterialBlind",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Orientation",
+                    "Name": "Slat_Orientation",
+                    "Datatype": "string",
+                    "Value": "Horizontal"
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Width",
+                    "Name": "Slat_Width",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.025
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Separation",
+                    "Name": "Slat_Separation",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.01875
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Thickness",
+                    "Name": "Slat_Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.001
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Angle",
+                    "Name": "Slat_Angle",
+                    "Unit": "deg",
+                    "Datatype": "float",
+                    "Value": 45.0
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Conductivity",
+                    "Name": "Slat_Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Beam_Solar_Transmittance",
+                    "Name": "Slat_Beam_Solar_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Front_Side_Slat_Beam_Solar_Reflectance",
+                    "Name": "Front_Side_Slat_Beam_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Back_Side_Slat_Beam_Solar_Reflectance",
+                    "Name": "Back_Side_Slat_Beam_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Diffuse_Solar_Transmittance",
+                    "Name": "Slat_Diffuse_Solar_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Front_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Name": "Front_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Back_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Name": "Back_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Beam_Visible_Transmittance",
+                    "Name": "Slat_Beam_Visible_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Front_Side_Slat_Beam_Visible_Reflectance",
+                    "Name": "Front_Side_Slat_Beam_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Back_Side_Slat_Beam_Visible_Reflectance",
+                    "Name": "Back_Side_Slat_Beam_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Diffuse_Visible_Transmittance",
+                    "Name": "Slat_Diffuse_Visible_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Front_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Name": "Front_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Back_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Name": "Back_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Slat_Infrared_Hemispherical_Transmittance",
+                    "Name": "Slat_Infrared_Hemispherical_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Front_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Name": "Front_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Back_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Name": "Back_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Blind_to_Glass_Distance",
+                    "Name": "Blind_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.05
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Blind_Top_Opening_Multiplier",
+                    "Name": "Blind_Top_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Blind_Bottom_Opening_Multiplier",
+                    "Name": "Blind_Bottom_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Blind_Left_Side_Opening_Multiplier",
+                    "Name": "Blind_Left_Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Blind_Right_Side_Opening_Multiplier",
+                    "Name": "Blind_Right_Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Minimum_Slat_Angle",
+                    "Name": "Minimum_Slat_Angle",
+                    "Unit": "deg",
+                    "Datatype": "float",
+                    "Value": null
+                },
+                {
+                    "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS__Maximum_Slat_Angle",
+                    "Name": "Maximum_Slat_Angle",
+                    "Unit": "deg",
+                    "Datatype": "float",
+                    "Value": null
+                }
+            ],
+            "MatName": "BLIND_WITH_MEDIUM_REFLECTIVITY_SLATS",
+            "MatNameStr": "BLIND WITH MEDIUM REFLECTIVITY SLATS"
+        },
+        {
+            "Name": "WindowMaterialBlind",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Orientation",
+                    "Name": "Slat_Orientation",
+                    "Datatype": "string",
+                    "Value": "Horizontal"
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Width",
+                    "Name": "Slat_Width",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.025
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Separation",
+                    "Name": "Slat_Separation",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.01875
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Thickness",
+                    "Name": "Slat_Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.001
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Angle",
+                    "Name": "Slat_Angle",
+                    "Unit": "deg",
+                    "Datatype": "float",
+                    "Value": 45.0
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Conductivity",
+                    "Name": "Slat_Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Beam_Solar_Transmittance",
+                    "Name": "Slat_Beam_Solar_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Front_Side_Slat_Beam_Solar_Reflectance",
+                    "Name": "Front_Side_Slat_Beam_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Back_Side_Slat_Beam_Solar_Reflectance",
+                    "Name": "Back_Side_Slat_Beam_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Diffuse_Solar_Transmittance",
+                    "Name": "Slat_Diffuse_Solar_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Front_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Name": "Front_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Back_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Name": "Back_Side_Slat_Diffuse_Solar_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Beam_Visible_Transmittance",
+                    "Name": "Slat_Beam_Visible_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Front_Side_Slat_Beam_Visible_Reflectance",
+                    "Name": "Front_Side_Slat_Beam_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Back_Side_Slat_Beam_Visible_Reflectance",
+                    "Name": "Back_Side_Slat_Beam_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Diffuse_Visible_Transmittance",
+                    "Name": "Slat_Diffuse_Visible_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Front_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Name": "Front_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Back_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Name": "Back_Side_Slat_Diffuse_Visible_Reflectance",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Slat_Infrared_Hemispherical_Transmittance",
+                    "Name": "Slat_Infrared_Hemispherical_Transmittance",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Front_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Name": "Front_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Back_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Name": "Back_Side_Slat_Infrared_Hemispherical_Emissivity",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Blind_to_Glass_Distance",
+                    "Name": "Blind_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.05
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Blind_Top_Opening_Multiplier",
+                    "Name": "Blind_Top_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Blind_Bottom_Opening_Multiplier",
+                    "Name": "Blind_Bottom_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Blind_Left_Side_Opening_Multiplier",
+                    "Name": "Blind_Left_Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Blind_Right_Side_Opening_Multiplier",
+                    "Name": "Blind_Right_Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Minimum_Slat_Angle",
+                    "Name": "Minimum_Slat_Angle",
+                    "Unit": "deg",
+                    "Datatype": "float",
+                    "Value": null
+                },
+                {
+                    "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+                    "ComplexName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS__Maximum_Slat_Angle",
+                    "Name": "Maximum_Slat_Angle",
+                    "Unit": "deg",
+                    "Datatype": "float",
+                    "Value": null
+                }
+            ],
+            "MatName": "BLIND_WITH_LOW_REFLECTIVITY_SLATS",
+            "MatNameStr": "BLIND WITH LOW REFLECTIVITY SLATS"
+        }
+    ]
+}

@@ -1,0 +1,554 @@
+{
+    "Elements": [
+        {
+            "Name": "WindowMaterialScreen",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Reflected_Beam_Transmittance_Accounting_Method",
+                    "Name": "Reflected_Beam_Transmittance_Accounting_Method",
+                    "Datatype": "string",
+                    "Value": "ModelAsDiffuse"
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Diffuse_Solar_Reflectance",
+                    "Name": "Diffuse_Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.08
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Diffuse_Visible_Reflectance",
+                    "Name": "Diffuse_Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.08
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Thermal_Hemispherical_Emissivity",
+                    "Name": "Thermal_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.04
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Screen_Material_Spacing",
+                    "Name": "Screen_Material_Spacing",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.00157
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Screen_Material_Diameter",
+                    "Name": "Screen_Material_Diameter",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.000381
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Screen_to_Glass_Distance",
+                    "Name": "Screen_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.025
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Left_Side_Opening_Multiplier",
+                    "Name": "Left_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Right_Side_Opening_Multiplier",
+                    "Name": "Right_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_1__Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Name": "Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Unit": "deg",
+                    "Value": 0
+                }
+            ],
+            "MatName": "CHARCOAL_FIBERGLASS_SCREEN_1",
+            "MatNameStr": "CHARCOAL FIBERGLASS SCREEN 1"
+        },
+        {
+            "Name": "WindowMaterialScreen",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Reflected_Beam_Transmittance_Accounting_Method",
+                    "Name": "Reflected_Beam_Transmittance_Accounting_Method",
+                    "Datatype": "string",
+                    "Value": "ModelAsDiffuse"
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Diffuse_Solar_Reflectance",
+                    "Name": "Diffuse_Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.08
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Diffuse_Visible_Reflectance",
+                    "Name": "Diffuse_Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.08
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Thermal_Hemispherical_Emissivity",
+                    "Name": "Thermal_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.04
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Screen_Material_Spacing",
+                    "Name": "Screen_Material_Spacing",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.00167
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Screen_Material_Diameter",
+                    "Name": "Screen_Material_Diameter",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.000381
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Screen_to_Glass_Distance",
+                    "Name": "Screen_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.025
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Left_Side_Opening_Multiplier",
+                    "Name": "Left_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Right_Side_Opening_Multiplier",
+                    "Name": "Right_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_2__Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Name": "Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Unit": "deg",
+                    "Value": 0
+                }
+            ],
+            "MatName": "CHARCOAL_FIBERGLASS_SCREEN_2",
+            "MatNameStr": "CHARCOAL FIBERGLASS SCREEN 2"
+        },
+        {
+            "Name": "WindowMaterialScreen",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Reflected_Beam_Transmittance_Accounting_Method",
+                    "Name": "Reflected_Beam_Transmittance_Accounting_Method",
+                    "Datatype": "string",
+                    "Value": "ModelAsDiffuse"
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Diffuse_Solar_Reflectance",
+                    "Name": "Diffuse_Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.08
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Diffuse_Visible_Reflectance",
+                    "Name": "Diffuse_Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.08
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Thermal_Hemispherical_Emissivity",
+                    "Name": "Thermal_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.04
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Screen_Material_Spacing",
+                    "Name": "Screen_Material_Spacing",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.00155
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Screen_Material_Diameter",
+                    "Name": "Screen_Material_Diameter",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.000406
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Screen_to_Glass_Distance",
+                    "Name": "Screen_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.025
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Left_Side_Opening_Multiplier",
+                    "Name": "Left_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Right_Side_Opening_Multiplier",
+                    "Name": "Right_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+                    "ComplexName": "CHARCOAL_FIBERGLASS_SCREEN_3__Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Name": "Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Unit": "deg",
+                    "Value": 0
+                }
+            ],
+            "MatName": "CHARCOAL_FIBERGLASS_SCREEN_3",
+            "MatNameStr": "CHARCOAL FIBERGLASS SCREEN 3"
+        },
+        {
+            "Name": "WindowMaterialScreen",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Reflected_Beam_Transmittance_Accounting_Method",
+                    "Name": "Reflected_Beam_Transmittance_Accounting_Method",
+                    "Datatype": "string",
+                    "Value": "ModelAsDiffuse"
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Diffuse_Solar_Reflectance",
+                    "Name": "Diffuse_Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.6
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Diffuse_Visible_Reflectance",
+                    "Name": "Diffuse_Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.6
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Thermal_Hemispherical_Emissivity",
+                    "Name": "Thermal_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 221.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Screen_Material_Spacing",
+                    "Name": "Screen_Material_Spacing",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.00154
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Screen_Material_Diameter",
+                    "Name": "Screen_Material_Diameter",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.000254
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Screen_to_Glass_Distance",
+                    "Name": "Screen_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.025
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Left_Side_Opening_Multiplier",
+                    "Name": "Left_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Right_Side_Opening_Multiplier",
+                    "Name": "Right_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_1__Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Name": "Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Unit": "deg",
+                    "Value": 0
+                }
+            ],
+            "MatName": "BRIGHT_ALUMINUM_SCREEN_1",
+            "MatNameStr": "BRIGHT ALUMINUM SCREEN 1"
+        },
+        {
+            "Name": "WindowMaterialScreen",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Reflected_Beam_Transmittance_Accounting_Method",
+                    "Name": "Reflected_Beam_Transmittance_Accounting_Method",
+                    "Datatype": "string",
+                    "Value": "ModelAsDiffuse"
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Diffuse_Solar_Reflectance",
+                    "Name": "Diffuse_Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.6
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Diffuse_Visible_Reflectance",
+                    "Name": "Diffuse_Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.6
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Thermal_Hemispherical_Emissivity",
+                    "Name": "Thermal_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 221.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Screen_Material_Spacing",
+                    "Name": "Screen_Material_Spacing",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.00164
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Screen_Material_Diameter",
+                    "Name": "Screen_Material_Diameter",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.000254
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Screen_to_Glass_Distance",
+                    "Name": "Screen_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.025
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Left_Side_Opening_Multiplier",
+                    "Name": "Left_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Right_Side_Opening_Multiplier",
+                    "Name": "Right_Side_Opening_Multiplier",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+                    "ComplexName": "BRIGHT_ALUMINUM_SCREEN_2__Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Name": "Angle_of_Resolution_for_Screen_Transmittance_Output_Map",
+                    "Unit": "deg",
+                    "Value": 0
+                }
+            ],
+            "MatName": "BRIGHT_ALUMINUM_SCREEN_2",
+            "MatNameStr": "BRIGHT ALUMINUM SCREEN 2"
+        }
+    ]
+}

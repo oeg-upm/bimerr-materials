@@ -1,0 +1,700 @@
+{
+    "Elements": [
+        {
+            "Name": "WindowMaterialShade",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Solar_Transmittance",
+                    "Name": "Solar_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Solar_Reflectance",
+                    "Name": "Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Visible_Transmittance",
+                    "Name": "Visible_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Visible_Reflectance",
+                    "Name": "Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.8
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Infrared_Hemispherical_Emissivity",
+                    "Name": "Infrared_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Infrared_Transmittance",
+                    "Name": "Infrared_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.005
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Shade_to_Glass_Distance",
+                    "Name": "Shade_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.05
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Left-Side_Opening_Multiplier",
+                    "Name": "Left-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Right-Side_Opening_Multiplier",
+                    "Name": "Right-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "HIGH_REFLECT_-_LOW_TRANS_SHADE__Airflow_Permeability",
+                    "Name": "Airflow_Permeability",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                }
+            ],
+            "MatName": "HIGH_REFLECT_-_LOW_TRANS_SHADE",
+            "MatNameStr": "HIGH REFLECT - LOW TRANS SHADE"
+        },
+        {
+            "Name": "WindowMaterialShade",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Solar_Transmittance",
+                    "Name": "Solar_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.4
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Solar_Reflectance",
+                    "Name": "Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Visible_Transmittance",
+                    "Name": "Visible_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.4
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Visible_Reflectance",
+                    "Name": "Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Infrared_Hemispherical_Emissivity",
+                    "Name": "Infrared_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Infrared_Transmittance",
+                    "Name": "Infrared_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.005
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Shade_to_Glass_Distance",
+                    "Name": "Shade_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.05
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Left-Side_Opening_Multiplier",
+                    "Name": "Left-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Right-Side_Opening_Multiplier",
+                    "Name": "Right-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE__Airflow_Permeability",
+                    "Name": "Airflow_Permeability",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                }
+            ],
+            "MatName": "MEDIUM_REFLECT_-_MEDIUM_TRANS_SHADE",
+            "MatNameStr": "MEDIUM REFLECT - MEDIUM TRANS SHADE"
+        },
+        {
+            "Name": "WindowMaterialShade",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Solar_Transmittance",
+                    "Name": "Solar_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Solar_Reflectance",
+                    "Name": "Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Visible_Transmittance",
+                    "Name": "Visible_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Visible_Reflectance",
+                    "Name": "Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Infrared_Hemispherical_Emissivity",
+                    "Name": "Infrared_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Infrared_Transmittance",
+                    "Name": "Infrared_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.005
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Shade_to_Glass_Distance",
+                    "Name": "Shade_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.05
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Left-Side_Opening_Multiplier",
+                    "Name": "Left-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Right-Side_Opening_Multiplier",
+                    "Name": "Right-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE__Airflow_Permeability",
+                    "Name": "Airflow_Permeability",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                }
+            ],
+            "MatName": "MEDIUM_REFLECT_-_LOW_TRANS_SHADE",
+            "MatNameStr": "MEDIUM REFLECT - LOW TRANS SHADE"
+        },
+        {
+            "Name": "WindowMaterialShade",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Solar_Transmittance",
+                    "Name": "Solar_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.7
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Solar_Reflectance",
+                    "Name": "Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Visible_Transmittance",
+                    "Name": "Visible_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.7
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Visible_Reflectance",
+                    "Name": "Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Infrared_Hemispherical_Emissivity",
+                    "Name": "Infrared_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Infrared_Transmittance",
+                    "Name": "Infrared_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.005
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Shade_to_Glass_Distance",
+                    "Name": "Shade_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.05
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Left-Side_Opening_Multiplier",
+                    "Name": "Left-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Right-Side_Opening_Multiplier",
+                    "Name": "Right-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_HIGH_TRANS_SHADE__Airflow_Permeability",
+                    "Name": "Airflow_Permeability",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                }
+            ],
+            "MatName": "LOW_REFLECT_-_HIGH_TRANS_SHADE",
+            "MatNameStr": "LOW REFLECT - HIGH TRANS SHADE"
+        },
+        {
+            "Name": "WindowMaterialShade",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Solar_Transmittance",
+                    "Name": "Solar_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.4
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Solar_Reflectance",
+                    "Name": "Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Visible_Transmittance",
+                    "Name": "Visible_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.4
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Visible_Reflectance",
+                    "Name": "Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Infrared_Hemispherical_Emissivity",
+                    "Name": "Infrared_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Infrared_Transmittance",
+                    "Name": "Infrared_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.005
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Shade_to_Glass_Distance",
+                    "Name": "Shade_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.05
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Left-Side_Opening_Multiplier",
+                    "Name": "Left-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Right-Side_Opening_Multiplier",
+                    "Name": "Right-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE__Airflow_Permeability",
+                    "Name": "Airflow_Permeability",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                }
+            ],
+            "MatName": "LOW_REFLECT_-_MEDIUM_TRANS_SHADE",
+            "MatNameStr": "LOW REFLECT - MEDIUM TRANS SHADE"
+        },
+        {
+            "Name": "WindowMaterialShade",
+            "Type": "Material",
+            "PropertyValuePair": [
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Solar_Transmittance",
+                    "Name": "Solar_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Solar_Reflectance",
+                    "Name": "Solar_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Visible_Transmittance",
+                    "Name": "Visible_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Visible_Reflectance",
+                    "Name": "Visible_Reflectance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.2
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Infrared_Hemispherical_Emissivity",
+                    "Name": "Infrared_Hemispherical_Emissivity",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.9
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Infrared_Transmittance",
+                    "Name": "Infrared_Transmittance",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Thickness",
+                    "Name": "Thickness",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.005
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Conductivity",
+                    "Name": "Conductivity",
+                    "Unit": "W/m-K",
+                    "Datatype": "float",
+                    "Value": 0.1
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Shade_to_Glass_Distance",
+                    "Name": "Shade_to_Glass_Distance",
+                    "Unit": "m",
+                    "Datatype": "float",
+                    "Value": 0.05
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Top_Opening_Multiplier",
+                    "Name": "Top_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Bottom_Opening_Multiplier",
+                    "Name": "Bottom_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Left-Side_Opening_Multiplier",
+                    "Name": "Left-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Right-Side_Opening_Multiplier",
+                    "Name": "Right-Side_Opening_Multiplier",
+                    "Datatype": "float",
+                    "Value": 0.5
+                },
+                {
+                    "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+                    "ComplexName": "LOW_REFLECT_-_LOW_TRANS_SHADE__Airflow_Permeability",
+                    "Name": "Airflow_Permeability",
+                    "Unit": "dimensionless",
+                    "Datatype": "float",
+                    "Value": 0.0
+                }
+            ],
+            "MatName": "LOW_REFLECT_-_LOW_TRANS_SHADE",
+            "MatNameStr": "LOW REFLECT - LOW TRANS SHADE"
+        }
+    ]
+}
